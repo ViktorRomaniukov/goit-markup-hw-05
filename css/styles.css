@@ -594,7 +594,7 @@ label,
   margin-bottom: 8px;
 }
 
-label > div {
+label + div {
   margin-top: 4px;
   position: relative;
 }
