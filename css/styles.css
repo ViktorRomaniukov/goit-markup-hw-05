@@ -653,9 +653,6 @@ label+div {
 }
 
 .label-vector {
-  display: flex;
-  align-items: center;
-  text-align: center;
   cursor: pointer;
 }
 
@@ -682,7 +679,6 @@ label+div {
   font-weight: 400;
   font-size: 12px;
   letter-spacing: 0.04em;
-  margin-left: 4px;
 }
 
 .checkbox-hidden-vector:checked+.label-vector>.box-vector {
