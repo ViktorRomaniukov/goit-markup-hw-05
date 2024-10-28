@@ -480,8 +480,6 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* flex-direction: row; */
-  gap: 16px;
   min-width: 165px;
   height: 40px;
   text-align: center;
